@@ -1,0 +1,6 @@
+name: flask_action
+pack: flaskapi_pack
+runner_type: python-script
+description: This action will up the flask app
+enabled: true
+entry_point: flaskapi_action.py
